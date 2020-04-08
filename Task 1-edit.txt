@@ -1,0 +1,27 @@
+let my_name = "Adewale Iyanuoluwa Isaac";
+
+console.log("My name is: " + my_name);
+
+const courses = ["HTML", "CSS", "JAVASCRIPT", "PYTHON", "NODEJS",];
+
+console.log("My courses are: " + courses);
+
+
+if (course.lenght %2 === 1){
+   for (let i=0; i<=200; i++) {
+  if (i%2===1) {
+    console.log(i); 
+  }
+ }
+}
+else {
+ for  (let i=0; i<=200; i++) {
+  if (i%2===0) {
+    console.log(i);
+  }
+ }
+}
+  
+
+
+console.log(data);
